@@ -3,6 +3,9 @@
     "question": "Why were you banned?",
     "character_limit": 1024
   }, {
+    "question": "Do you know what staff member banned you?",
+    "character_limit": 1024
+  }, {
     "question": "Why do you feel you should be unbanned?",
     "character_limit": 1024
   }, {
